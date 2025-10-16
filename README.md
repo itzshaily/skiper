@@ -23,6 +23,6 @@ This project was created to better understand layout structuring, responsive des
 - **CSS3**
 - **JavaScript**
 - **[Skiper UI](https://skiper.ai/ui)** design reference
-- (Optional) **TailwindCSS** if used
+- **TailwindCSS**
 
 
